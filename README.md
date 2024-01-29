@@ -8,11 +8,7 @@
   <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true" alt="Header Image" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yousefuwk&label=Profile%20Views&color=12&icon=1&pretty=false" alt="Profile Views" />
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yousefuwk20&label=Profile%20views&color=0e75b6&style=flat" alt="Yousefuwk20" /> </p>
 
 <h3 align="center">🌱 About Me</h3>
 <p align="center">
