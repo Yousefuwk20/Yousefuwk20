@@ -59,8 +59,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefuwk20&show_icons=true&locale=en&layout=compact" alt="yousefuwk20" /></p>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefuwk20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefuwk20&show_icons=true&locale=en" alt="yousefuwk20" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefuwk20&show_icons=true&locale=en" alt="GitHub Stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefuwk20&" alt="yousefuwk20" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefuwk20" alt="GitHub Streak" />
+</div>
+
