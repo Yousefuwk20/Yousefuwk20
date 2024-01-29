@@ -59,10 +59,8 @@
   <img src="https://img.shields.io/badge/PyCharm-006400?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
+<h3 align="center">🛠️ Github stats</h3>
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefuwk20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefuwk20&show_icons=true&locale=en" alt="GitHub Stats" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefuwk20" alt="GitHub Streak" />
 </div>
