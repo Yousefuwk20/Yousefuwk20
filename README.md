@@ -53,7 +53,3 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/PyCharm-006400?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Yousefuwk20/Yousefuwk20/output/snake.svg" alt="Snake animation" />
