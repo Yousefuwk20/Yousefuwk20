@@ -15,13 +15,6 @@
   Hi, I'm Yousef Mohamed, an AI enthusiast and student, currently diving into the world of Machine Learning. 🚀
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/yousefuwk20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousefuwk20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yousef-mohamed-salem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousef-mohamed-salem/" height="30" width="40" /></a>
-<a href="https://kaggle.com/yousefmohamed20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousefmohamed20" height="30" width="40" /></a>
-</p>
-
 
 <h3 align="center">📚 Currently Learning</h3>
 <p align="center">
@@ -64,3 +57,10 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/PyCharm-006400?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefuwk20&show_icons=true&locale=en&layout=compact" alt="yousefuwk20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefuwk20&show_icons=true&locale=en" alt="yousefuwk20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefuwk20&" alt="yousefuwk20" /></p>
