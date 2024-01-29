@@ -15,8 +15,8 @@
   Hi, I'm Yousef Mohamed, an AI enthusiast and student, currently diving into the world of Machine Learning. 🚀
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/yousefuwk20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousefuwk20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yousef-mohamed-salem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousef-mohamed-salem/" height="30" width="40" /></a>
 <a href="https://kaggle.com/yousefmohamed20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousefmohamed20" height="30" width="40" /></a>
