@@ -18,11 +18,7 @@ Final-year **AI Student** | **Data Engineer** with ML Background.
 
 ## About Me
 
-I'm passionate about transforming raw data into structured, insightful, and actionable systems.  
-
-After starting as an **ML Engineer**, I shifted my focus to **Data Engineering**, where I combine my machine learning background with data pipeline design to deliver high-impact, analytics-ready architectures.  
-
-Currently exploring **real-time data streaming** and **cloud data platforms**.
+I'm a final-year AI student and data engineer passionate about building scalable, analytics-ready data systems. After starting as an ML engineer, I transitioned to data engineering to design robust pipelines, such as a real-time streaming system processing using Kafka and Spark. I specialize in integrating ML models into data workflows to drive actionable insights, with a current focus on real-time and batch streaming and cloud-native platforms like AWS.
 
 ---
 
@@ -64,12 +60,6 @@ Currently exploring **real-time data streaming** and **cloud data platforms**.
 
 ---
 
-## Currently Exploring
-
-- DataOps & automation best practices
-
----
-
 ## Certifications
 
 <div align="left">
@@ -78,12 +68,6 @@ Currently exploring **real-time data streaming** and **cloud data platforms**.
   [View Credential](https://www.credly.com/earner/earned/badge/2393333c-a8ba-4274-8348-9d2592d2f363)
 
 </div>
-
----
-
-**Areas of Expertise:**  
-Data Engineering • Data Architecture • ETL Pipelines • Real-Time Streaming  
-Cloud Platforms • AI & ML Integration • Data Modeling • MLOps Foundations
 
 ---
 
