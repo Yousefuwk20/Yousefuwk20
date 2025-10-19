@@ -16,7 +16,7 @@ Final-year **AI Student** | **Data Engineer** with ML Background.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm passionate about transforming raw data into structured, insightful, and actionable systems.  
 
@@ -26,7 +26,7 @@ Currently exploring **real-time data streaming** and **cloud data platforms**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
