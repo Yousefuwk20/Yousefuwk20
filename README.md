@@ -81,13 +81,9 @@ Currently exploring **real-time data streaming** and **cloud data platforms**.
 
 ---
 
-## Areas of Expertise
-
-```
-Data Engineering       Data Architecture       Data Modeling
-ETL & ELT Pipelines    Real-Time Streaming     Cloud Computing
-AI & ML Integration    Analytics & Viz         MLOps Foundations
-```
+**Areas of Expertise:**  
+Data Engineering • Data Architecture • ETL Pipelines • Real-Time Streaming  
+Cloud Platforms • AI & ML Integration • Data Modeling • MLOps Foundations
 
 ---
 
