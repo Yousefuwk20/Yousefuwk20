@@ -1,66 +1,136 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23036CF7&size=30&v&width=1000&lines=Hi+there+👋+Welcome+to+My+Profile!;+I+am+Yousef+Mohamed👋;+An+AI+Student+with+strong+passion+for+Machine+Learning;" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23036CF7&size=30&v&width=1000&lines=Hi+there+👋+Welcome+to+My+Profile!;+I+am+Yousef+Mohamed👋;" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true" alt="Header Image" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yousefuwk20&label=Profile%20views&color=0e75b6&style=flat" alt="Yousefuwk20 Profile Views" />
-</p>
-
-<h3 align="center">🌱 About Me</h3>
-<p align="center">
-  Hi, I'm Yousef Mohamed, an AI enthusiast and student, currently diving into the world of Machine Learning. 🚀
-</p>
-
-<h3 align="center">📚 Currently Learning</h3>
-<p align="center">
-  Exploring the depths of <strong>PyTorch</strong>.
-</p>
-
-<h3 align="center">📫 Let's Connect</h3>
-<p align="center">
-  Feel free to reach out to me anytime through my <a href="https://linktr.ee/Yousef.Mohamed">Linktree</a>.
-</p>
-
-<h3 align="center">💻 Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-<h3 align="center">🛠️ Machine Learning/DL Frameworks</h3>
-<p align="center">
-  <img src="http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00" alt="Scikit-Learn" />
-  <img src="http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="http://img.shields.io/badge/-Keras-eee?style=flat-square&logo=keras&logoColor=D00000" alt="Keras" />
-</p>
-
-<h3 align="center">💬 Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
-
-<h3 align="center">🛠️ IDEs</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-006400?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-</p>
-
-<h3 align="center">🛠️ Github stats</h3>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefuwk20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefuwk20" alt="GitHub Streak" />
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=Yousefuwk20&label=Profile%20views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yousef-mohamed-salem/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:yousef.zsc123@gmail.com)
+
 </div>
+
+Final-year **AI Student** | **Data Engineer** with ML Background.
+
+---
+
+## 🚀 About Me
+
+I'm passionate about transforming raw data into structured, insightful, and actionable systems.  
+
+After starting as an **ML Engineer**, I shifted my focus to **Data Engineering**, where I combine my machine learning background with data pipeline design to deliver high-impact, analytics-ready architectures.  
+
+Currently exploring **real-time data streaming** and **cloud data platforms**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![Apache NiFi](https://img.shields.io/badge/NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Machine Learning & AI
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+---
+
+## Currently Exploring
+
+- DataOps & automation best practices
+
+---
+
+## Certifications
+
+<div align="left">
+  
+- 🟢 **AWS Certified AI Practitioner**  
+  [View Credential](https://www.credly.com/earner/earned/badge/2393333c-a8ba-4274-8348-9d2592d2f363)
+
+</div>
+
+---
+
+## Areas of Expertise
+
+```
+Data Engineering       Data Architecture       Data Modeling
+ETL & ELT Pipelines    Real-Time Streaming     Cloud Computing
+AI & ML Integration    Analytics & Viz         MLOps Foundations
+```
+
+---
+
+## Last Project
+
+### [Customer Segmentation Data Warehouse Project](https://github.com/Yousefuwk20/Customer-Segmentation-Data-Warehouse-Project)
+
+**Tech Stack:** `PySpark` `Hive` `SparkMLlib` `PostgreSQL` `Matplotlib`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousefuwk20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousefuwk20&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yousefuwk20&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-mohamed-salem/)
+[![Email](https://img.shields.io/badge/Email-yousef.zsc123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.zsc123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Yousefuwk20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yousefuwk20)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting! Feel free to explore my repositories and reach out for collaboration!** 
+
+</div>
+
+---
+
+  
