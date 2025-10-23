@@ -67,6 +67,9 @@ I'm a final-year AI student and data engineer passionate about building scalable
 - 🟢 **AWS Certified AI Practitioner**  
   [View Credential](https://www.credly.com/earner/earned/badge/2393333c-a8ba-4274-8348-9d2592d2f363)
 
+- 🟢 **Apache Airflow 3 Fundamentals**  
+  [View Credential](https://www.credly.com/earner/earned/badge/c202b0b6-f8c5-4ce6-b851-a0b9056fdba1)
+
 </div>
 
 ---
