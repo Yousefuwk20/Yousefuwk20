@@ -78,7 +78,7 @@ I'm a final-year AI student and data engineer passionate about building scalable
 
 ### [Customer Segmentation Data Warehouse Project](https://github.com/Yousefuwk20/Customer-Segmentation-Data-Warehouse-Project)
 
-##### **Tech Stack:** `PySpark` `Hive` `SparkMLlib` `PostgreSQL` `Matplotlib`
+#### **Tech Stack:** `PySpark` `Hive` `SparkMLlib` `PostgreSQL` `Matplotlib`
 ---
 
 <div align="center">
