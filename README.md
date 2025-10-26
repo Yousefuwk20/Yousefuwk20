@@ -96,18 +96,6 @@ I'm a final-year AI student and data engineer passionate about building scalable
 
 ---
 
-## Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-mohamed-salem/)
-[![Email](https://img.shields.io/badge/Email-yousef.zsc123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.zsc123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Yousefuwk20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yousefuwk20)
-
-</div>
-
----
-
 <div align="center">
 
 **Thanks for visiting! Feel free to explore my repositories and reach out for collaboration!** 
