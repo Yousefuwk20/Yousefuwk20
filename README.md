@@ -76,9 +76,9 @@ I'm a final-year AI student and data engineer passionate about building scalable
 
 ## Last Project
 
-### [Customer Segmentation Data Warehouse Project](https://github.com/Yousefuwk20/Customer-Segmentation-Data-Warehouse-Project)
+### [Dynamic Flight Pricing Pipeline]([https://github.com/Yousefuwk20/Customer-Segmentation-Data-Warehouse-Project](https://github.com/Yousefuwk20/dynamic-flight-pricing))
 
-#### **Tech Stack:** `PySpark` `Hive` `SparkMLlib` `PostgreSQL` `Matplotlib`
+#### **Tech Stack:** `Snowflake` `DBT` `XGBoost` `FastAPI` `Airflow` `Docker` `AWS`
 ---
 
 <div align="center">
