@@ -36,6 +36,8 @@ I'm a final-year AI student and data engineer passionate about building scalable
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
 ![Apache NiFi](https://img.shields.io/badge/NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,7 +78,7 @@ I'm a final-year AI student and data engineer passionate about building scalable
 
 ## Last Project
 
-### [Dynamic Flight Pricing Pipeline]([https://github.com/Yousefuwk20/dynamic-flight-pricing])
+### [Dynamic Flight Pricing Pipeline](https://github.com/Yousefuwk20/dynamic-flight-pricing)
 
 #### **Tech Stack:** `Snowflake` `DBT` `XGBoost` `FastAPI` `Airflow` `Docker` `AWS`
 ---
