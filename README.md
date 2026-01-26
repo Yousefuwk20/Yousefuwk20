@@ -26,16 +26,15 @@ I'm a final-year AI student and data engineer passionate about building scalable
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data Engineering
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-![Apache NiFi](https://img.shields.io/badge/NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
@@ -46,7 +45,6 @@ I'm a final-year AI student and data engineer passionate about building scalable
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Analytics & Visualization
@@ -64,13 +62,11 @@ I'm a final-year AI student and data engineer passionate about building scalable
 
 ## Certifications
 
-<div align="left">
-  
-- 🟢 **AWS Certified AI Practitioner**  
-  [View Credential](https://www.credly.com/earner/earned/badge/2393333c-a8ba-4274-8348-9d2592d2f363)
+<div align="center">
 
-- 🟢 **Apache Airflow 3 Fundamentals**  
-  [View Credential](https://www.credly.com/earner/earned/badge/c202b0b6-f8c5-4ce6-b851-a0b9056fdba1)
+[![AWS ML Engineer Associate](https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](https://www.credly.com/badges/de27046c-dd68-4447-a506-8808598f183a/public_url)
+[![AWS AI Practitioner](https://images.credly.com/size/340x340/images/5a8e56b7-ea8e-4065-b4b1-ac7bbe7f7f9c/image.png)](https://www.credly.com/badges/8928159a-3595-42cd-9243-df1244f71695/public_url)
+[![Apache Airflow](https://images.credly.com/size/340x340/images/4c6a917a-26eването-4aa8-969f-e9d0e23b5dd1/image.png)](https://www.credly.com/badges/c202b0b6-f8c5-4ce6-b851-a0b9056fdba1/public_url)
 
 </div>
 
