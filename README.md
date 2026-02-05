@@ -70,13 +70,6 @@ I'm passionate about building reliable data infrastructure that turns raw data i
 
 ---
 
-## Last Project
-
-### [Dynamic Flight Pricing Pipeline](https://github.com/Yousefuwk20/dynamic-flight-pricing)
-
-#### **Tech Stack:** `Snowflake` `DBT` `XGBoost` `FastAPI` `Airflow` `Docker` `AWS`
----
-
 <div align="center">
 
 **Thanks for visiting! Feel free to explore my repositories and reach out for collaboration!** 
