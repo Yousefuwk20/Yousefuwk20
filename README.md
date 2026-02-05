@@ -15,7 +15,7 @@
 Final-year **AI Student** | **Data Engineer** with ML Background.
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1o9licWIlbqrz-b9t9gnbRMUuxxeTEujb/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1NZ2TDwEX-PzufaA8h7Z2u6CwXIXaRrDV/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" height="40"/>
   </a>
 </div>
