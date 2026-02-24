@@ -66,6 +66,10 @@ I'm passionate about building reliable data infrastructure that turns raw data i
   <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="150" alt="Microsoft Certified: Fabric Analytics Engineer Associate" />
 </a>
 
+<a href="https://achieve.snowflake.com/189df739-cc08-48c8-b791-d0cced1e220f#acc.FST738bh">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/175263614" height="150" alt="SnowPro Associate: Platform Certification" />
+</a>
+
 </div>
 
 ---
