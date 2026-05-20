@@ -12,7 +12,7 @@
 
 </div>
 
-Final-year **AI Student** | **Data Engineer** with ML Background.
+Final-year **AI Student** | **Data Engineer** at digitalH.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1PXZo0CsZ_BJ_RxypVD8GCpIGq7U8ENcB/view?usp=sharing" target="_blank">
