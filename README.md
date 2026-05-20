@@ -42,7 +42,7 @@ I'm passionate about building reliable data infrastructure that turns raw data i
 
 🎓 **B.Sc. in Artificial Intelligence** | Faculty of Artificial Intelligence, Kafr El-Sheikh University  
 📊 **CGPA:** 3.61/4  
-📅 **Expected Graduation:** July 2026 (Final Year)
+📅 **Graduation:** June 2026
 
 ---
 
