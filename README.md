@@ -15,7 +15,7 @@
 **Data Engineer** at digitalH.
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1PXZo0CsZ_BJ_RxypVD8GCpIGq7U8ENcB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/13N2GgTH6z24ae2pKe7LO8VVbrO6BSwPk/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" height="40"/>
   </a>
 </div>
