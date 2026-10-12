@@ -6,9 +6,8 @@
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=Yousefuwk20&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yousef-mohamed-salem/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:yousef.zsc123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:contact@yousefsalem.me)
 
 </div>
 
